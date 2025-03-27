@@ -7,7 +7,8 @@ Soy un estudiante de Ingeniería de Sistemas de 19 años, originario de Venezuel
 ### 🌍 Datos Personales
 - 📍 Ubicación: Colombia
 - 🎓 Carrera: Ingeniería de Sistemas
-- 📚 Semestre: 5to 
+- 📚 Semestre: 5to
+- 🌐 Inglés: B2 - Intermedio Alto
 
 ## 💻 Stack Tecnológico
 
