@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hola, soy Mauricio Lugo
 
-<!--
-**justlugoo/justlugoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Perfil Profesional
 
-Here are some ideas to get you started:
+Soy un estudiante de Ingeniería de Sistemas de 19 años, originario de Venezuela y actualmente residiendo en Colombia. Estoy cursando mi 5to semestre, con el objetivo de completar mi ciclo de tecnólogo y continuar mi formación como ingeniero.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Datos Personales
+- 📍 Ubicación: Colombia
+- 🎓 Carrera: Ingeniería de Sistemas
+- 📚 Semestre: 5to 
+
+## 💻 Stack Tecnológico
+
+### Lenguajes y Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🛠 Habilidades
+
+### Técnicas
+- Desarrollo de Software
+- Desarrollo Web
+- Metodologías Ágiles (SCRUM)
+
+### Blandas
+- Comunicación
+- Resolución de Problemas
+- Pensamiento Crítico
+- Liderazgo
+- Trabajo en Equipo 
+
+## 🌱 Objetivos Profesionales
+
+Mi pasión se centra en el desarrollo de software y web. Estoy comprometido con:
+- Continuar expandiendo mi stack tecnológico
+- Mejorar mis habilidades de trabajo en equipo
+- Desarrollar proyectos innovadores
+- Crecer profesionalmente en el campo de la ingeniería de sistemas
+
+## 📫 Contáctame
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justlugoo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurogranados31@gmail.com)
+
+⭐ From [Mauricio Lugo](https://github.com/justlugoo)
