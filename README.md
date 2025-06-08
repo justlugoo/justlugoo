@@ -2,12 +2,12 @@
 
 ## 🚀 Perfil Profesional
 
-Soy un estudiante de Ingeniería de Sistemas de 19 años, originario de Venezuela y actualmente residiendo en Colombia. Estoy cursando mi 5to semestre, con el objetivo de completar mi ciclo de tecnólogo y continuar mi formación como ingeniero.
+Soy un estudiante de Ingeniería de Sistemas de 19 años, originario de Venezuela y actualmente residiendo en Colombia. Estoy cursando mi 6to semestre, con el objetivo de completar mi ciclo de tecnólogo y continuar mi formación como ingeniero.
 
 ### 🌍 Datos Personales
 - 📍 Ubicación: Colombia
 - 🎓 Carrera: Ingeniería de Sistemas
-- 📚 Semestre: 5to
+- 📚 Semestre: 6to
 - 🌐 Inglés: B2 - Intermedio Alto
 
 ## 💻 Stack Tecnológico
