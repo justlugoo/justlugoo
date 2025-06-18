@@ -12,20 +12,21 @@ Soy un estudiante de Ingeniería de Sistemas de 19 años, originario de Venezuel
 
 ## 💻 Stack Tecnológico
 
-### Lenguajes y Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+## 🚀 Lenguajes y Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🗄️ Bases de Datos  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ## 🛠 Habilidades
 
 ### Técnicas
-- Desarrollo de Software
-- Desarrollo Web
-- Metodologías Ágiles (SCRUM)
+- Desarrollo Backend
+- Desarrollo intermedio Frontend
 
 ### Blandas
 - Comunicación
