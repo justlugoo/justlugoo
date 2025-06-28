@@ -9,6 +9,7 @@ Soy un estudiante de Ingeniería de Sistemas de 19 años, originario de Venezuel
 - 🎓 Carrera: Ingeniería de Sistemas
 - 📚 Semestre: 6to
 - 🌐 Inglés: B2 - Intermedio Alto
+- 📄 [Currículum](https://drive.google.com/file/d/11xGclzonDli62jpUKheclvXtuZQPgwrY/view?usp=sharing)
 
 ## 💻 Stack Tecnológico
 
