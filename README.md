@@ -1,6 +1,6 @@
 <div align="center">
 
-# Wassup, soy Mauricio José Lugo Granados
+# Wassup, soy Mauricio Lugo 
 
 ### Estudiante de Ingeniería de Sistemas | Desarrollador Backend
 
