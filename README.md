@@ -1,52 +1,72 @@
-# 👋 Hola, soy Mauricio Lugo
+<div align="center">
 
-## 🚀 Perfil Profesional
+# Hola 👋, soy Mauricio José Lugo Granados
 
-Soy un estudiante de Ingeniería de Sistemas de 19 años, originario de Venezuela y actualmente residiendo en Colombia. Estoy cursando mi 6to semestre, con el objetivo de completar mi ciclo de tecnólogo y continuar mi formación como ingeniero.
+### Estudiante de Ingeniería de Sistemas | Apasionado por el Desarrollo BACKEND
 
-### 🌍 Datos Personales
-- 📍 Ubicación: Colombia
-- 🎓 Carrera: Ingeniería de Sistemas
-- 📚 Semestre: 6to
-- 🌐 Inglés: B2 - Intermedio Alto
-- 📄 [Currículum](https://drive.google.com/file/d/11xGclzonDli62jpUKheclvXtuZQPgwrY/view?usp=sharing)
+</div>
 
-## 💻 Stack Tecnológico
+---
 
-## 🚀 Lenguajes y Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+### 👨‍💻 Sobre mí
 
-## 🗄️ Bases de Datos  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)  
+Soy un estudiante de Ingeniería de Sistemas en la ciudad de **Cartagena, Colombia**. Me apasiona construir la lógica **Backend** y hacer interfaces **Frontend** para el camino FullStack.
 
-## 🛠 Habilidades
+Actualmente estoy profundizando mis conocimientos en la creación de **APIs RESTful con FastAPI** y la infraestructura de **Google Cloud**. Mi objetivo es consolidarme como **Desarrollador FullStack** y adentrarme en el mundo de **DevOps** para automatizar y optimizar los ciclos de vida del software.
 
-### Técnicas
-- Desarrollo Backend
-- Desarrollo intermedio Frontend
+---
 
-### Blandas
-- Comunicación
-- Resolución de Problemas
-- Pensamiento Crítico
-- Liderazgo
-- Trabajo en Equipo 
+### 🛠️ Tecnologías y Herramientas
 
-## 🌱 Objetivos Profesionales
+#### 💬 Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-Mi pasión se centra en el desarrollo de software y web. Estoy comprometido con:
-- Continuar expandiendo mi stack tecnológico
-- Mejorar mis habilidades de trabajo en equipo
-- Desarrollar proyectos innovadores
-- Crecer profesionalmente en el campo de la ingeniería de sistemas
+#### ⚙️ Frameworks & Librerías
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## 📫 Contáctame
+#### 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justlugoo/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurogranados31@gmail.com)
+#### 🔧 Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+---
 
-⭐ From [Mauricio Lugo](https://github.com/justlugoo)
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justlugoo&layout=compact&hide=html,css&theme=radical)
+&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=justlugoo&theme=radical&locale=es)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🔗 Conecta conmigo
+
+<p align="center">
+    <a href="https://mauricio-lugo-portafolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portafolio-Web%20Personal-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio">
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/justlugoo/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-justlugoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    &nbsp;
+    <a href="mailto:maurogranados31@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-maurogranados31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+</p>
