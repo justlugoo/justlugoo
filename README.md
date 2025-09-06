@@ -1,8 +1,8 @@
 <div align="center">
 
-# Wassup, soy Mauricio Lugo 
+# Wassup, soy Mauricio Lugo  
 
-### Estudiante de Ingeniería de Sistemas | Desarrollador Backend
+### Estudiante de Ingeniería de Sistemas | Desarrollador Full-Stack & DevOps
 
 </div>
 
@@ -10,37 +10,59 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un estudiante de Ingeniería de Sistemas en la ciudad de **Cartagena, Colombia**. Me apasiona construir la lógica **Backend** y hacer interfaces **Frontend** para el camino FullStack.
+Soy estudiante de **Ingeniería de Sistemas** en **Cartagena, Colombia**, apasionado por el desarrollo **Backend**, interfaces **Frontend** y la automatización de despliegues.  
 
-Actualmente estoy profundizando mis conocimientos en la creación de **APIs RESTful con FastAPI** y la infraestructura de **Google Cloud**. Mi objetivo es consolidarme como **Desarrollador FullStack** y adentrarme en el mundo de **DevOps** para automatizar y optimizar los ciclos de vida del software.
+Actualmente estoy profundizando en:  
+- **APIs RESTful con FastAPI**  
+- **Infraestructura en Google Cloud y DevOps**  
+
+Mi objetivo es consolidarme como **Desarrollador Full-Stack** y especialista en **DevOps**, optimizando ciclos de desarrollo y deployments.
+
+---
+
+### 🏆 Proyectos Destacados
+
+**LeadsManager – Sistema de Gestión de Clientes Potenciales**  
+*Full-Stack | DevOps | CI/CD*  
+
+- Arquitectura modular con separación frontend/backend  
+- Containerización completa con **Docker multi-stage builds**  
+- CI/CD automatizado con **GitHub Actions**  
+- Deployment en **Google Cloud Run** con **Artifact Registry**  
+- API RESTful segura con **JWT** y documentada con **Swagger/OpenAPI**  
+- Dashboard interactivo, filtros avanzados y CRUD completo de leads  
+- Validación robusta con **Pydantic** y logging estructurado  
+
+[Repositorio](https://github.com/justlugoo/LeadsManager) | [Demo en vivo](#https://leadsmanager-frontend-577637376682.us-central1.run.app)
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
+#### 🔧 DevOps & Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
 #### 💬 Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 #### ⚙️ Frameworks & Librerías
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 #### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-#### 🔧 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
+
 ---
 
 ### 📊 Estadísticas de GitHub
