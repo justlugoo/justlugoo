@@ -10,13 +10,11 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas** en **Cartagena, Colombia**, apasionado por el desarrollo **Backend**, interfaces **Frontend** y la automatización de despliegues.  
+Soy estudiante de **Ingeniería de Sistemas** en **Cartagena, Colombia**.
 
 Actualmente estoy profundizando en:  
 - **APIs RESTful con FastAPI**  
 - **Infraestructura en Google Cloud y DevOps**  
-
-Mi objetivo es consolidarme como **Desarrollador Full-Stack** y especialista en **DevOps**, optimizando ciclos de desarrollo y deployments.
 
 ---
 
@@ -29,12 +27,8 @@ Mi objetivo es consolidarme como **Desarrollador Full-Stack** y especialista en 
 - Containerización completa con **Docker multi-stage builds**  
 - CI/CD automatizado con **GitHub Actions**  
 - Deployment en **Google Cloud Run** con **Artifact Registry**  
-- API RESTful segura con **JWT** y documentada con **Swagger/OpenAPI**  
-- Dashboard interactivo, filtros avanzados y CRUD completo de leads  
-- Validación robusta con **Pydantic** y logging estructurado  
-
+- API RESTful segura con **JWT** y documentada con **Swagger/OpenAPI**
 [Repositorio](https://github.com/justlugoo/LeadsManager) | [Demo en vivo](#https://leadsmanager-frontend-577637376682.us-central1.run.app)
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
@@ -60,8 +54,6 @@ Mi objetivo es consolidarme como **Desarrollador Full-Stack** y especialista en 
 #### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-
 
 ---
 
