@@ -28,7 +28,7 @@ Actualmente estoy profundizando en:
 - CI/CD automatizado con **GitHub Actions**  
 - Deployment en **Google Cloud Run** con **Artifact Registry**  
 - API RESTful segura con **JWT** y documentada con **Swagger/OpenAPI**
-[Repositorio](https://github.com/justlugoo/LeadsManager) | [Demo en vivo](#https://leadsmanager-frontend-577637376682.us-central1.run.app)
+[Repositorio](https://github.com/justlugoo/LeadsManager) | [Demo en vivo](https://leadsmanager-frontend-577637376682.us-central1.run.app)
 ---
 
 ### 🛠️ Tecnologías y Herramientas
