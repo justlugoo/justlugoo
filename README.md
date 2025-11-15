@@ -14,30 +14,18 @@
 
 ## 🎯 Lo que hago
 
-Construyo logica de negocio y sistemas escalables en la nube. Me enfoco en **arquitectura backend con FastAPI**, **infraestructura en Google Cloud** y **pipelines CI/CD**.
+Construyo logica de negocio y sistemas escalables en la nube. Me enfoco en **arquitectura backend con FastAPI**, **infraestructura en Google Cloud**.
 
-**En este momento:** Aprendiendo a diseñar arquitecturas distribuidas y automatizacion en la nube.
-
----
-
-## 🚀 Proyecto destacado
-
-### [LeadsManager](https://github.com/justlugoo/LeadsManager)
-
-Sistema de gestión de clientes:
-
-- **Frameworks:** FastAPI, React (Ts)
-- **Infraestructura:** Docker, GitHub Actions, Google Cloud Run (Prueba gratuita vencida)
-  
 ---
 
 ## 🛠️ Stack técnico
 
-- **Backend & APIs: (MAIN)** Python • FastAPI • Django
-- **Cloud & DevOps: (MAIN)** Google Cloud Platform (Compute Engine, Networks, Storage) • GitHub Actions
-- **Databases:** SQL, GCP Databases
-- **Frontend:** NextJS • TypeScript • TailwindCSS
-- **Others:** Docker, JWT, Ngix, git, Terraform, uv.
+- **Backend & APIs (MAIN):** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?logo=fastapi&logoColor=white&style=flat-square)
+- **Cloud & DevOps (MAIN):** ![GCP](https://img.shields.io/badge/-GoogleCloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square) 
+- **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white&style=flat-square) 
+- **Frontend:** ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) 
+- **Otros:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square)
+
 
 ---
 
