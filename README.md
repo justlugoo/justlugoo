@@ -2,7 +2,7 @@
 
 # 👋 Mauricio Lugo
 
-**Estudiante de Ingeniería de Sistemas → Arquitecto de Software & Nube**
+**Estudiante de Ingeniería de Sistemas**
 
 `FastAPI` • `Google Cloud` • `DevOps` • `NextJS`
 
@@ -14,7 +14,7 @@
 
 ## 🎯 Lo que hago
 
-Construyo logica de negocio y sistemas escalables en la nube. Me enfoco en **arquitectura backend con FastAPI**, **infraestructura en Google Cloud**.
+Construyo logica de negocio y sistemas escalables en la nube. Me enfoco en **arquitectura backend con FastAPI**, **microservicios**, **infraestructura en Google Cloud**.
 
 ---
 
