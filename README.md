@@ -4,23 +4,26 @@
 
 <table align="center">
 <tr>
-<td align="center" valign="top" width="45%">
+<td align="center" valign="top" width="50%">
   
+<h3>👋 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></h3>
 
-<h3>👋 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</h3>
+<div align="left">
 
-<br/>
+```python
+class MauricioLugo:
+  def __init__(self):
+    self.role = "DevOps | Backend Dev"
+    self.education = "Tecnólogo & Ing. Sistemas"
+    self.location = "Colombia 🇨🇴"
+    self.stack = ["Python", "TypeScript"]
+    self.tools = ["Docker", "Terraform", "GCP"]
+    
+  def daily(self):
+    return ["Code", "Deploy", "Automate"]
+```
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=300&lines=DevOps;Backend+Developer;Cloud+Architect" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<p><strong>Tecnólogo en Sistemas</strong>  de Información y de Software, y <strong>estudiante</strong> de Ingenieria en Sistemas.</p>
-
-<br/>
+</div>
 
 <p align="center">
   <a href="https://mauricio-lugo-portafolio.vercel.app/">🌐 Portfolio</a> &nbsp;|&nbsp;
@@ -32,31 +35,32 @@
 <td align="center" valign="top" width="50%">
 
 <h3>Stack <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></h3>
-<h3>🛠 Lenguajes </h3>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/>
 
-<h3>⚡ Frameworks</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" height="65" alt="FastAPI"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind"/>
+<h4>🛠 Lenguajes</h4>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript"/>
 
-<h3>☁️ Cloud & DevOps</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="65" height="65" alt="GCP"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="65" height="65" alt="Terraform"/>
+<h4>⚡ Frameworks</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind"/>
 
-<h3>🔌 Others</h3>
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nginx"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Actions"/>
+<h4>☁️ Cloud & DevOps</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="GCP"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55" height="55" alt="Terraform"/>
+
+<h4>🔌 Others</h4>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="Nginx"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="Actions"/>
 
 </td>
 </tr>
