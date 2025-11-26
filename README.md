@@ -18,7 +18,7 @@
 
 <br/>
 
-<p>Tecnólogo en Sistemas de Información y de Software, estudiante de Ingenieria en Sistemas.</p>
+<p><strong>Tecnólogo en Sistemas</strong>  de Información y de Software, y <strong>estudiante</strong> de Ingenieria en Sistemas.</p>
 
 <br/>
 
@@ -29,7 +29,7 @@
 </p>
 
 </td>
-<td align="center" valign="top" width="55%">
+<td align="center" valign="top" width="50%">
 
 <h3>Stack <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></h3>
 <h3>🛠 Lenguajes </h3>
@@ -62,11 +62,10 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <br/>
 
-## 📊 Stats
+### 📊 Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
