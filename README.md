@@ -16,11 +16,17 @@ class MauricioLugo:
     self.role = "DevOps | Backend Dev"
     self.education = "Tecnólogo & Ing. Sistemas"
     self.location = "Colombia 🇨🇴"
-    self.stack = ["Python", "TypeScript"]
+    self.stack = ["FastAPI", "NextJS"]
     self.tools = ["Docker", "Terraform", "GCP"]
+    self.arquitect = ["Microservices", "Hexagonal Architecture"]
+    self.goals = ["Arquitect Software & Cloud"] 
     
   def daily(self):
-    return ["Code", "Deploy", "Automate"]
+    while True:
+      yield "Code"
+      yield "Deploy"
+      yield "Automate"
+      yield "Monitor"
 ```
 
 </div>
