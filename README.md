@@ -4,12 +4,12 @@
 
 > [🌐 Portafolio](https://mauricio-lugo-portafolio.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/justlugoo/) • [📨 Email](mailto:maurogranados31@gmail.com)
 
-Soy **Tecnólogo en Desarrollo de Software** especializado en **Backend** e infraestructura **Google Cloud (GCP)**. Mi foco actual es diseñar arquitecturas escalables, integrando prácticas **DevOps** y patrones de diseño.
+Soy **Tecnólogo en Desarrollo de Software**, enfocado en area **Backend Web** e infraestructura **Google Cloud (GCP)**. Mi foco actual es diseñar arquitecturas, integrando prácticas **DevOps** y patrones de diseño.
 
 ### Tecnologías Principales
 
 > **Backend y Lenguajes**
-> <br> Python (FastAPI), Java (Spring Boot), TypeScript (Next.js)
+> <br> Java (Spring Boot), Python (FastAPI),  TypeScript (Next.js)
 
 > **Nube y DevOps (GCP)**
 > <br> Serverless, Kubernetes, Terraform, Docker, GitHub Actions
