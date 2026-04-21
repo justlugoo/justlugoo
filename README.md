@@ -1,21 +1,24 @@
 # Mauricio Lugo 
 
-#### Estudiante de Ingeniería en Sistemas | Arquitectura Cloud y Software
+#### Estudiante de Ingeniería en Sistemas | Cloud & Software Engineer
 
 > [🌐 Portafolio](https://mauricio-lugo-portafolio.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/justlugoo/) • [📨 Email](mailto:maurogranados31@gmail.com)
 
-Soy **Tecnólogo en Desarrollo de Software**, enfocado en area **Backend Web** e infraestructura **Google Cloud (GCP)**. Mi foco actual es diseñar arquitecturas, integrando prácticas **DevOps** y patrones de diseño.
+**Tecnólogo en Desarrollo de Software** y **estudiante de Ingeniería en Sistemas**. Enfocado en el desarrollo **Backend e infraestructura Cloud/On-premise** bajo estándares de industria , mientras me preparo para la certificación **Google PCA**.
 
 ### Tecnologías Principales
 
-> **Backend y Lenguajes**
-> <br> Java (Spring Boot), Python (FastAPI),  TypeScript (Next.js)
+> **Lenguajes/Frameworks**
+> <br> Python (FastAPI), Java (Spring Boot), TypeScript (Next.js)
 
-> **Nube y DevOps (GCP)**
-> <br> Serverless, Kubernetes, Terraform, Docker, GitHub Actions
+> **Infraestructura Cloud/On-Premise**
+> <br> GCP, Terraform, Docker, Kubernetes
+> <br> Linux (Bash), Virtualización (VMware/KVM), Networking.
 
 > **Datos y APIs**
-> <br> Cloud SQL, Firestore, PostgreSQL, REST, gRPC
+> <br> PostgreSQL, MongoDB, Cloud SQL, BigQuery
+> <br> Cloud Storage, Redis
+> <br> gRPC, REST (HTTP), Google Pub/Sub
 
 <br>
 
