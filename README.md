@@ -2,7 +2,7 @@
 #### Estudiante de Ingeniería en Sistemas | Cloud & Software Engineer
 > [🌐 Portafolio](https://mauricio-lugo-portafolio.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/justlugoo/) • [📨 Email](mailto:maurogranados31@gmail.com)
 
-**Tecnólogo en Desarrollo de Software** y **estudiante de Ingeniería en Sistemas**. Enfocado en **Backend e infraestructura Cloud/On-premise** bajo estándares de industria, mientras me preparo para la certificación **Google PCA**.
+**Tecnólogo en Desarrollo de Software** y **estudiante de Ingeniería en Sistemas**. Enfocado en **Backend e infraestructura Cloud/On-premise** bajo estándares de industria. Certificado como **Google Cloud Associate Cloud Engineer**.
 
 ### Tecnologías Principales
 
@@ -20,9 +20,7 @@
 >
 > **Datos y APIs**
 > <br>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB" title="MongoDB" />&nbsp;
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="32" height="32" alt="gRPC" title="gRPC" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" />
 
 <br>
 <div align="left">
