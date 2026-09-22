@@ -2,6 +2,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E0854?style=for-the-badge&logo=vercel&logoColor=D8B4FE)](https://mauricio-lugo-portafolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justlugoo/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurogranados31@gmail.com)
+[![CV](https://img.shields.io/badge/CV-Download-2E0854?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XJqg_0bX_wvEJWWs0UGDYndrqkmWpPTk/view)
 
 **Tecnólogo en desarrollo de sistemas de información y de software** y estudiante de **Ingeniería en Sistemas**, orientado en area **Backend e infraestructura Cloud**.
 
@@ -28,6 +29,6 @@
 <br>
 
 <div align="left">
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=justlugoo&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff" height="170" />
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=justlugoo&layout=compact&hide=html,css&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9" height="170" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=justlugoo&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=justlugoo&layout=compact&hide=html,css&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9" height="170"/>
 </div>
