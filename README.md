@@ -5,7 +5,7 @@
 <a href="https://mauricio-lugo-portafolio.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
 <a href="https://www.linkedin.com/in/justlugoo/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:maurogranados31@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://drive.google.com/file/d/1sZ9Ks8WGyd7gePDpfEnsRiAZwRAS8b2p/view"><img src="https://img.shields.io/badge/CV-0d0d0d?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" /></a>
+<a href="https://docs.google.com/document/d/1_buiqdhq0hgzZxkcqBngrn4N5zipRaANrlThi9pUoA8/edit?usp=sharing"><img src="https://img.shields.io/badge/CV-0d0d0d?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" /></a>
 
 </div>
 
